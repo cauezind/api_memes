@@ -1,2 +1,2 @@
 # api_memes
-Atividade para puxar memes de uma API
+Site que puxa memes de uma API e realiza uma galeria
